@@ -1,39 +1,45 @@
 
-<h3 align="center" style="text-align: center">❤ evoluir a minha lógica e meus conhecimentos acerca do <bolder>Desenvolvimento de software</bolder>, assim como também explicá-los.</h2>
+<h2 align="center" style="text-align: center">❤ evoluir a minha lógica e meus conhecimentos acerca do <bolder>Desenvolvimento de software</bolder>, assim como também explicá-los.</h2>
+
 
 <br>
+<div valign="center">
+   
+   
+<img src="./cat.png" alt="cat" width="350px" align="right">
+   
+```typescript
+  class Dev {
+    public name: string;
+    public age: number;
+    public programming_languages: string[];
 
-  ```typescript
-    class Dev {
-      public name: string;
-      public age: number;
-      public programming_languages: string[];
-    
-      constructor(name: string, age: number, programming_languages: string[]) {
-        this.name = name;
-        this.age = age;
-        this.programming_languages = programming_languages;
-      }
+    constructor(name: string, age: number, programming_languages: string[]) {
+      this.name = name;
+      this.age = age;
+      this.programming_languages = programming_languages;
     }
+  }
 
-    const dev = new Dev("Kaylan", 20, [
-      "TypeScript",
-      "JavaScript",
-      "NodeJs",
-      "React",
-      "Python",
-      "Csharp",
-      "PHP"
-    ]);
-  ```
-  
-<img src="./cat.png" alt="cat">
+  const dev = new Dev("Kaylan", 20, [
+    "TypeScript",
+    "JavaScript",
+    "NodeJs",
+    "React",
+    "Python",
+    "Csharp",
+    "PHP"
+  ]);
+``` 
+ 
+</div>
+
 <br>
   
 <div align="center">
   <a href="https://github.com/Kaylan-9">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaylan-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylan-9&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kaylan-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylan-9&layout=compact&langs_count=7&theme=tokyonight"/>
     
   <br>
   <br>
