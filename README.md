@@ -14,7 +14,11 @@
     public age: number;
     public programming_languages: string[];
 
-    constructor(name: string, age: number, programming_languages: string[]) {
+    constructor(
+      name: string, 
+      age: number, 
+      programming_languages: string[]
+    ) {
       this.name = name;
       this.age = age;
       this.programming_languages = programming_languages;
