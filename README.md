@@ -13,5 +13,5 @@
   <img align="center" alt="Kaylan-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaylan-Csharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kaylan-PHP" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="center" alt="Kaylan-GIT" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Kaylan-GIT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
