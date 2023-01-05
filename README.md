@@ -1,9 +1,52 @@
+
+<h3 align="center" style="text-align: center">❤ evoluir a minha lógica e meus conhecimentos acerca do <bolder>Desenvolvimento de software</bolder>, assim como também explicá-los.</h2>
+
+<br>
+
+  ```typescript
+    class Dev {
+      public name: string;
+      public age: number;
+      public programming_languages: string[];
+    
+      constructor(name: string, age: number, programming_languages: string[]) {
+        this.name = name;
+        this.age = age;
+        this.programming_languages = programming_languages;
+      }
+    }
+
+    const dev = new Dev("Kaylan", 20, [
+      "TypeScript",
+      "JavaScript",
+      "NodeJs",
+      "React",
+      "Python",
+      "Csharp",
+      "PHP"
+    ]);
+  ```
+  
+<img src="./cat.png" alt="cat">
+<br>
+  
 <div align="center">
   <a href="https://github.com/Kaylan-9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaylan-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylan-9&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display:flex;flex-wrap:wrap;min-width:100%;justify-content:center;background: blue"><br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaylan-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylan-9&layout=compact&langs_count=7&theme=tokyonight"/>
+    
+  <br>
+  <br>
+   
+   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kaylan-9&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=0d0026&title_color=5603fc&line=5603fc&point=5603fc&theme=high-contrast" width="800px" alt="graph">
+
+</div> 
+  
+<br>
+  
+<h2 align="center" style="text-align: center">Programming languages 🕹</h2>
+  
+<div align="center" style="display: inline; text-align: center"><br>
   <img align="center" alt="Kaylan-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kaylan-Ts" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kaylan-NodeJs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
