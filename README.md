@@ -1,12 +1,9 @@
 
-<h2 align="center" style="text-align: center">❤ evoluir a minha lógica e meus conhecimentos acerca do <bolder>Desenvolvimento de software</bolder>, assim como também explicá-los.</h2>
+<h2 align="center" style="text-align: center">Amo ❤ evoluir a minha lógica e meus conhecimentos acerca do <bolder>Desenvolvimento de software</bolder>, assim como também explicá-los.</h2>
 
 
 <br>
 <div valign="center">
-   
-   
-<img src="./cat.png" alt="cat" width="350px" align="right">
    
 ```typescript
   class Dev {
