@@ -1,5 +1,5 @@
 
-<h2 align="center" style="text-align: center">Amo ❤ evoluir a minha lógica e meus conhecimentos acerca do <bolder>Desenvolvimento de software</bolder>, assim como também explicá-los.</h2>
+<h2 align="center" style="text-align: center">Amo ❤ evoluir a minha lógica e meus conhecimentos acerca do <bolder>Desenvolvimento de software</bolder>.</h2>
 
 
 <br>
