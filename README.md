@@ -1,5 +1,5 @@
 
-<h2 align="center" style="text-align: center">Amo ❤ evoluir a minha lógica e meus conhecimentos acerca do <bolder>Desenvolvimento de software</bolder>.</h2>
+<h2 align="center" style="text-align: center">Meu objetivo é sempre evoluir no desenvolvimento de software</h2>
 
 
 <br>
@@ -23,13 +23,9 @@
   }
 
   const dev = new Dev("Kaylan", 20, [
-    "TypeScript",
     "JavaScript",
-    "NodeJs",
-    "React",
     "Python",
     "Csharp",
-    "PHP"
   ]);
 ``` 
  
