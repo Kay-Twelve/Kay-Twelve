@@ -34,14 +34,14 @@
 <br>
   
 <div align="center">
-  <a href="https://github.com/Kaylan-9">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kaylan-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylan-9&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Kay-Twelve">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kay-twelve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kay-twelve&layout=compact&langs_count=7&theme=tokyonight"/>
     
   <br>
   <br>
    
-   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kaylan-9&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=0d0026&title_color=5603fc&line=5603fc&point=5603fc&theme=high-contrast" width="800px" alt="graph">
+   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kay-twelve&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=0d0026&title_color=5603fc&line=5603fc&point=5603fc&theme=high-contrast" width="800px" alt="graph">
 
 </div> 
   
