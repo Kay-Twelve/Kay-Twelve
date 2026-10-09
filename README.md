@@ -1,6 +1,6 @@
-<h2 style="text-align: center">🔥📚 Always Improving</h2>
+<h2 align="center" style="text-align: center">🔥📚 Always Improving</h2>
 <br>
-<table align="center">
+<table align="center" style="width: 100%; border-color: transparent !important;">
   <td>
 
   ```rust
@@ -76,9 +76,8 @@
 </div>
 <br>
 <h2 align="left">🧮 Statistics</h2>
-<div align="center">
-  <a href="https://github.com/Kay-Twelve">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kay-twelve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kay-twelve&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center" style="display: inline;">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Kay-Twelve&theme=algolia&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Twelve&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
 </div> 
   
