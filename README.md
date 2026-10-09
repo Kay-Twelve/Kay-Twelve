@@ -1,56 +1,84 @@
-
-<h2 align="center" style="text-align: center">Meu objetivo é sempre evoluir no desenvolvimento de software</h2>
-
-
+<h2 style="text-align: center">🔥📚 Always Improving</h2>
 <br>
-<div valign="center">
-   
-```typescript
-  class Dev {
-    public name: string;
-    public age: number;
-    public programming_languages: string[];
+<table align="center">
+  <td>
 
-    constructor(
-      name: string, 
-      age: number, 
-      programming_languages: string[]
-    ) {
-      this.name = name;
-      this.age = age;
-      this.programming_languages = programming_languages;
-    }
+  ```rust
+  pub mod carrer {
+      pub enum Training {
+          SystemsDeveloper,
+          ComputerEnginner
+      }
+
+      pub struct Developer<'a> {
+          pub name: &'a str,
+          _age: i8,
+          _training: Training
+      }
+
+      impl<'a> Developer<'a> {
+          pub fn new(
+            name: &str, 
+            age: i8, 
+            training: Training
+          ) -> Developer<'_> {
+              Developer {
+                  name,
+                  _age: age,
+                  _training: training
+              }
+          }
+      }
   }
+  ``` 
 
-  const dev = new Dev("Kaylan", 20, [
-    "JavaScript",
-    "Python",
-    "Csharp",
-  ]);
-``` 
- 
-</div>
+  </td>
 
+  <td>
+
+  ```rust
+  fn main() {
+      let my_profile = carrer::Developer::new(
+          "Kaylan Carlos", 
+          24, 
+          carrer::Training::ComputerEnginner
+      );
+      println!(
+        "My name is {}. Welcome to my profile!!", 
+        my_profile.name
+      );
+  }
+  ``` 
+
+  </td>
+</table>
 <br>
-  
+<h2 align="left">👾 Technologies and tools</h2>
+<br>
+<div align="center" style="display: inline; text-align: center;">
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">  
+</div>
+<div align="center" style="display: inline; text-align: center;">
+</div>
+<br>
+<h2 align="left">🧮 Statistics</h2>
 <div align="center">
   <a href="https://github.com/Kay-Twelve">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kay-twelve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kay-twelve&layout=compact&langs_count=7&theme=tokyonight"/>
-    
-  <br>
-  <br>
-   
-   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kay-twelve&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=0d0026&title_color=5603fc&line=5603fc&point=5603fc&theme=high-contrast" width="800px" alt="graph">
-
 </div> 
   
-<br>
-  
-<h2 align="center" style="text-align: center">Programming languages 🕹</h2>
-  
-<div align="center" style="display: inline; text-align: center"><br>
-  <img align="center" alt="Kaylan-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaylan-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kaylan-Csharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
